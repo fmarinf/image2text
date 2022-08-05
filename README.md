@@ -5,4 +5,4 @@ Text to image converter using on Google ML Vision
  
 ## Getting Started
 
-The development behind this project is based on simple development, which seeks to deploy an application with ML algorithms supported by Google within short period of time.
+The development behind this project is based on simple development, which seeks to deploy an application with ML algorithms supported by Google within a short period of time. The app is based on a web dev course using Flutter and Android Studio.
